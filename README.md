@@ -8,7 +8,7 @@
 ### BetKings Windows
 
 1. Download [this bootstrap file](https://github.com/betkings/betkings-mainnet-bootstrap/releases/download/543345/bootstrap.dat)
-2. Open a file explorer. The default folder is %APPDATA%\BetKings. Place bootstrap.dat in this folder.
+2. Open a file explorer. The default folder is %APPDATA%\KINGS. Place bootstrap.dat in this folder.
 
 ### BetKings osX
 
